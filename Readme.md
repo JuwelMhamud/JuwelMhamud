@@ -3,12 +3,22 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=noob-hablu&color=red)
+
 
 Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 
 </div>
 
+- 👨‍🎓 I'm currently studying International Business at the University of Dhaka
+
+- 🚀 Building responsive and SEO friendly websites
+
+
+- 🌱 Currently Learning: Next.js , TypeScript
+
+- 🌐 While I still enjoy fullstack development, my current focus is to build innovative solutions that make a difference.
+
+- ❓ Feel free to ask me about anything related to Fullstack development
 
 
 ## Use To Code
@@ -58,6 +68,8 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 <br/>
 
 <br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=juwelmhamud&color=red)
 
 ## Connect with me
 
