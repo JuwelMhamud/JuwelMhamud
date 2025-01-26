@@ -51,19 +51,22 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 
 ## Github Stats -
 
-<p align="center">
-  <a href="https://github.com/JuwelMhamud">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juwelmhamud&theme=radical" alt="Juwel's GitHub Contribution"/>
-  </a>
-</p>
+<details>
+   <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/juwelmhamud">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juwelmhamud&show_icons=true&theme=tokyonight" alt="juwelmhamud stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwelmhamud&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+    </a>
+  </div>
+</details>
 
 <a> 
     <a href=https://github.com/JuwelMhamud"><img alt="Juwel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juwelmhamud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/JuwelMhamud"><img alt="Juwel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juwelmhamud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-![Juwel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=juwelmhamud&custom_title=Juwel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
