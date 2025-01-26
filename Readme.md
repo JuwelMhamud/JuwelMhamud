@@ -13,8 +13,7 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 
 - 🚀 Building responsive and SEO friendly websites
 
-
-- 🌱 Currently Learning: Next.js , TypeScript
+- 🌱 Currently Learning: Front-end Development
 
 - 🌐 While I still enjoy fullstack development, my current focus is to build innovative solutions that make a difference.
 
@@ -48,31 +47,14 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 <br/>
 <hr/>
 <br/>
+<br/>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tsensei&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## Github Stats -
-
-<details>
-   <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
-  <br />
-  <div align="center">
-    <a href="https://github.com/juwelmhamud">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juwelmhamud&show_icons=true&theme=tokyonight" alt="juwelmhamud stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwelmhamud&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-    </a>
-  </div>
-</details>
-
-<a> 
-    <a href=https://github.com/JuwelMhamud"><img alt="Juwel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juwelmhamud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JuwelMhamud"><img alt="Juwel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juwelmhamud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
+<br/> 
 <br/>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=juwelmhamud&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=JuwelMhamud&color=red)
 
 ## Connect with me
 
