@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juwel Mhamud</h1>
-<h3 align="center">Programmer | Content Creator | Speed Learner</h3>
 
-<div align="center">
-
-
-
-Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
-
-</div>
 
 - 👨‍🎓 I'm currently studying International Business at the University of Dhaka
 
 - 🚀 Building responsive and SEO friendly websites
 
-- 🌱 Currently Learning: Front-end Development
+- 🌱 Currently Learning: Full Stack Development
 
 - 🌐 While I still enjoy fullstack development, my current focus is to build innovative solutions that make a difference.
 
