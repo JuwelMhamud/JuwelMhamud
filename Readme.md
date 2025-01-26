@@ -47,26 +47,12 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
     <td><img src="https://skillicons.dev/icons?i=git,github,gitlab" height="40"/></td>
   </tr>
 <hr/>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="40"/></td>
-  </tr>
-
-  <hr/>
+  
 <br/>
 
-<p align="left">
-  <a href="https://github.com/JuwelMhamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
 
 ## Github Stats
 
-<hr/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuwelMhamud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
