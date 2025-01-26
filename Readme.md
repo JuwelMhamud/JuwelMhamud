@@ -51,11 +51,13 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 ## Github Stats
 
 <hr/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tsensei&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuwelMhamud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 <br/>
-<div align="center">![Profile views](https://komarev.com/ghpvc/?username=JuwelMhamud&color=red)</div>
+<div align="center">
+![Profile views](https://komarev.com/ghpvc/?username=JuwelMhamud&color=red)
+</div>
 
 
 ## Connect with me
