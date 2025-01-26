@@ -56,7 +56,7 @@ Skills: TYPESCRIPT / NEXT.JS / REACT / JS / HTML / CSS
 <br/> 
 <br/>
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=JuwelMhamud&color=red)
+<img src="https://komarev.com/ghpvc/?username=JuwelMhamud&&style=flat-square" align="center" />
 </div>
 
 
